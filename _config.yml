@@ -52,9 +52,9 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    amoghgupta:
+        name: Amogh Gupta
+        bio: A Man who loves to travel
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
